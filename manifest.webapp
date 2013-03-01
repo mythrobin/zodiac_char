@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "Zodiac Characteristics",
+  "description": "Discover your Zodiac Character",
+  "launch_path": "/zodiac_char/index.html",
+  "icons": {
+    "16": "/zodiac_char/img/icon16.png",
+    "48": "/zodiac_char/img/icon48.png",
+    "128": "/zodiac_char/img/icon128.png"
+  },
+  "developer": {
+    "name": "Robin Mehdee",
+    "url": "http://www.mythrobin.com/"
+  },
+  "default_locale": "en"
+}
